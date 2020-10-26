@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "gl"
+TargetType = "BeefLib"
+StartupObject = "gl.Program"
