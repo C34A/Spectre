@@ -1,5 +1,3 @@
-![Lines of Code](https://tokei.rs/b1/github/C34A/Spectre?category=code)
-
 # Spectre
 Spectre is a work in progress open source game engine written in beef!
 
