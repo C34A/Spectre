@@ -4,5 +4,8 @@ using System;
 
 namespace Spectre {
 	class Program {
+		public static void Main() {
+
+		}
 	}
 }
